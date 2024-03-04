@@ -1,0 +1,48 @@
+/* Estilo geral */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Cabeçalho */
+  header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Barra de navegação */
+  nav.bar {
+    background-color: #343a40;
+    color: white;
+    padding: 10px;
+  }
+  
+  /* Conteúdo principal */
+  main.content {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  /* Barra lateral */
+  aside.sidebar {
+    width: 20%;
+  }
+  
+  /* Conteúdo do artigo */
+  article.main {
+    width: 60%;
+  }
+  
+  /* Âncoras */
+  nav.anchors {
+    width: 20%;
+  }
+  
+  /* Rodapé */
+  footer.footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align:left;
+  }
+  
